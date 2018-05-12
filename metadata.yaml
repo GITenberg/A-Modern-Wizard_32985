@@ -16,6 +16,8 @@ description: 'Cover; Front matter; Title page; Copyright page; Body matter; Dedi
   Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Book Second: Chapter
   I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter
   VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII; Chapter XIII; Chapter XIV;'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32985#A-Modern-Wizard
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
 identifiers:
